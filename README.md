@@ -1,6 +1,3 @@
-Berikut adalah contoh laporan dalam format Markdown berdasarkan instruksi dan gambar yang telah kamu sediakan untuk dikumpulkan dalam README GitHub:
-
-```markdown
 # Laporan Instalasi dan Konfigurasi SSH Server di Ubuntu
 
 ## 1. Instalasi Ubuntu Server
@@ -116,9 +113,3 @@ touch file-di-server.txt
 
 Itulah langkah-langkah instalasi, konfigurasi SSH, dan pengubahan port pada Ubuntu Server. Semua langkah di atas telah dilakukan dan diuji, dengan hasil remote berhasil menggunakan port 40.
 ```
-
-### Penjelasan:
-- Setiap bagian laporan memiliki penjelasan singkat yang dilengkapi dengan perintah dan gambar yang sesuai dengan file tangkapan layar yang sudah kamu sediakan.
-- Gambar disesuaikan dengan format Markdown untuk ditampilkan di README GitHub. Pastikan semua gambar diunggah ke direktori yang sama dengan README.md agar bisa ditampilkan dengan benar.
-
-Silakan sesuaikan nama file gambar jika ada perubahan nama atau direktori di dalam repositori GitHub kamu.
