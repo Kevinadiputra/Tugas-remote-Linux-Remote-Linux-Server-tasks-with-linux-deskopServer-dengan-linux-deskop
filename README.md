@@ -1,4 +1,4 @@
-"# Laporan Instalasi dan Konfigurasi SSH Server di Ubuntu
+# Laporan Instalasi dan Konfigurasi SSH Server di Ubuntu
 
 ## 1. Instalasi Ubuntu Server
 Langkah pertama yang dilakukan adalah menginstal **Ubuntu Server** pada VirtualBox. Pastikan file ISO Ubuntu Server terbaru tersedia, dan ikuti langkah-langkah instalasi dengan benar.
