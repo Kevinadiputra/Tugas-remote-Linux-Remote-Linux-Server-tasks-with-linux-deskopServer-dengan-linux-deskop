@@ -1,4 +1,4 @@
-# Laporan Instalasi dan Konfigurasi SSH Server di Ubuntu
+# Laporan Remote Linux Server dengan linux desktop
 
 ## 1. Instalasi Ubuntu Server
 Langkah pertama yang dilakukan adalah menginstal **Ubuntu Server** pada VirtualBox. Pastikan file ISO Ubuntu Server terbaru tersedia, dan ikuti langkah-langkah instalasi dengan benar.
@@ -135,6 +135,4 @@ sudo apt install openssh-client
 ---
 
 ## Kesimpulan
-Kesimpulan dari percobaan ini adalah bahwa instalasi dan konfigurasi SSH Server di Ubuntu Server yang berjalan di VirtualBox telah berhasil. Mulai dari instalasi Ubuntu Server dan OpenSSH Server hingga mengubah port default SSH dari 22 ke 40 untuk alasan keamanan, semua langkah berjalan lancar. Proses remote dari Linux Desktop juga berhasil setelah port baru dikonfigurasi, dan perintah-perintah yang diperlukan dijalankan dengan benar. 
-
-Seluruh tahapan ini memberikan gambaran yang jelas tentang cara mengatur SSH untuk akses jarak jauh pada server, sekaligus menekankan pentingnya penyesuaian keamanan seperti mengubah port default. Langkah-langkah ini membantu pemahaman dasar tentang pengelolaan server jarak jauh dengan SSH dan meningkatkan kesadaran tentang praktik keamanan yang baik dalam administrasi server.
+Kesimpulan dari percobaan ini adalah bahwa remote, instalasi dan konfigurasi SSH Server di Ubuntu Server yang berjalan di VirtualBox telah berhasil. Mulai dari instalasi Ubuntu Server dan OpenSSH Server hingga mengubah port default SSH dari 22 ke 40, semua langkah berjalan lancar. Proses remote dari Linux Desktop juga berhasil setelah port baru dikonfigurasi, dan perintah-perintah yang diperlukan dijalankan dengan benar. 
