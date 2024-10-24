@@ -10,17 +10,17 @@
 ---
 
 ## 1. Instalasi Ubuntu Server
-Langkah pertama yang dilakukan adalah menginstal **Ubuntu Server** pada VirtualBox. Pastikan file ISO Ubuntu Server terbaru tersedia, dan ikuti langkah-langkah instalasi dengan benar.
+Langkah pertama yang saya lakukan adalah menginstal **Ubuntu Server** pada VirtualBox. Saya download terlebih dahulu iso nya pada link berikut: (https://ubuntu.com/download/server#manual-install)
 
 ![Instalasi Ubuntu Server](https://github.com/user-attachments/assets/2474a03e-6718-43c5-8e94-347527e84444)
 
 ### 1.1. Konfigurasi Ubuntu Linux Server di VirtualBox
-Pada tahap ini, dilakukan konfigurasi awal di VirtualBox, seperti setting jaringan, alokasi memori, dan pengaturan disk untuk Ubuntu Server.
+Pada tahap ini, saya melakukan konfigurasi awal di VirtualBox, seperti setting jaringan, alokasi memori, dan pengaturan disk untuk Ubuntu Server.
 
 ![Konfigurasi Ubuntu Linux Server di VirtualBox](https://github.com/user-attachments/assets/6b5c1446-15ff-434c-8a29-98027878ac53)
 
 ### 1.2. Profil Konfigurasi Server Linux
-Setelah instalasi selesai, Ubuntu Server dikonfigurasi sesuai kebutuhan untuk layanan dan akses jarak jauh menggunakan SSH.
+Setelah instalasi selesai, Ubuntu Server dikonfigurasi untuk layanan dan akses jarak jauh menggunakan SSH.
 
 ![Profil Server Linux](https://github.com/user-attachments/assets/be8de0d0-b393-48e9-b8ed-6ab01bc57bf7)
 
@@ -95,7 +95,7 @@ sudo systemctl restart ssh
 ## 4. Mencoba Remote Sebelum dan Sesudah Mengubah Port
 
 ### 4.1. Remote Sebelum Mengubah Port
-Sebelum mengubah port, percobaan remote dengan port default (22) dilakukan, namun koneksi ditolak karena port belum dibuka di firewall:
+Sebelum mengubah port, saya melakukan percobaan remote dengan port default (22):
 
 ```bash
 ssh username@server_ip
