@@ -3,8 +3,8 @@
 ## 1. Instalasi Ubuntu Server
 Langkah pertama yang dilakukan adalah menginstal **Ubuntu Server** pada VirtualBox. Pastikan kamu memiliki file ISO Ubuntu Server terbaru dan mengikuti langkah-langkah instalasi.
 
-**Tangkapan layar:**
-![Instalasi Ubuntu Server](./install-ubuntu-server.png)
+![install ubuntu server](https://github.com/user-attachments/assets/2474a03e-6718-43c5-8e94-347527e84444)
+
 
 ## 2. Persiapan SSH di Ubuntu Server
 Setelah Ubuntu Server terinstal, kita perlu melakukan beberapa persiapan agar server dapat menerima koneksi SSH. Langkah ini mencakup instalasi paket yang dibutuhkan.
